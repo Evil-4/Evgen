@@ -1,0 +1,5 @@
+name: EvGen
+version: '1.0'
+main: evil.evgen.EvGen
+api-version: '1.13'
+authors: [Evil__, evilek]
